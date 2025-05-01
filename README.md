@@ -14,8 +14,29 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 
 ## Trabalhando com Ambiente Cloud na Azure
 Nas aulas através do DIO no Bootcamp Bradesco - na parte sobre Microsoft Azure, aprendi que a microsoft azure é uma plataforma super interessante relacionada a armazenamento de dados/servidores e etc que pode ser utilizado por qualquer pessoa, sendo pago apenas o que foi utilizado!
+
 Aprendi também, que através do Microsoft Azure podemos realizar diversos serviços, desde criar uma máquina virtual até armazenar os dados em um banco de dados próprio da Azure!
 
-## Serviços Cloud de Inteligência Artificil
-Já na parte sobre Serviços cloud de i.a, o curso me mostrou muita coisa a respeito de i.a, como exemplo, utilizar o Microsoft Azure para machine learning.
+## Ensinamentos:
+<li>Introdução a Computação em Nuvem
+<li>Benefícios da Comutação em Nuvem
+<li>Tipos de Serviço em Nuvem
+<li>Componentes de Arquitetura do Azure
+<li>Computação e Rede na Azure
+<li>Identidade, Acesso e Segurança
 
+## Serviços Cloud de Inteligência Artificil
+Já na parte sobre Serviços cloud de i.a, o curso me mostrou muita coisa a respeito de i.a.
+
+## Ensinamentos:
+<li> Conceitos Básicos de I.A
+
+<li> Conceitos de Processamento de Linguagem Natural
+
+<li> Análise de Sentimentos com Language Studio no Azure A.I
+
+<li> Inteligência de Documentos de I.A do Azure
+
+<li> Fundamentos da I.A Generativa
+
+<li> Trabalhando com Serviços Azure OpenAI
