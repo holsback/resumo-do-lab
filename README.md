@@ -1,5 +1,7 @@
 # Resumo do lab
 
+Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO.
+
 # Bruno Holsback Melo
 
 ## Conecte-se comigo:
@@ -9,8 +11,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bholsback/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/holsback)
-
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO.
 
 ## Trabalhando com Ambiente Cloud na Azure
 Nas aulas através do DIO no Bootcamp Bradesco - na parte sobre Microsoft Azure, aprendi que a microsoft azure é uma plataforma super interessante relacionada a armazenamento de dados/servidores e etc que pode ser utilizado por qualquer pessoa, sendo pago apenas o que foi utilizado!
